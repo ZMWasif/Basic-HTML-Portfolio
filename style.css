@@ -35,3 +35,38 @@ section {
   text-align: center;
   padding-top: 3%;
 }
+#mission {
+  border-radius: 30px;
+  padding-bottom: 60px;
+  margin-bottom: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  background-image: linear-gradient(#c3ebef, #77e0eb);
+  box-shadow: 5px 5px 10px rgb(151, 121, 140);
+}
+#vision {
+  border-radius: 30px;
+  padding-bottom: 60px;
+  margin-bottom: 40px;
+  margin-right: 40px;
+  background-image: linear-gradient(#f0d1e7, #f27ed0);
+  box-shadow: 5px 5px 10px rgb(151, 121, 140);
+}
+#goals {
+  border-radius: 30px;
+  padding-bottom: 60px;
+  margin-bottom: 40px;
+  margin-right: 40px;
+  background-image: linear-gradient(#c5f7e2, #65e8af);
+  box-shadow: 5px 5px 10px rgb(151, 121, 140);
+}
+.shape {
+  padding-bottom: 60px;
+  padding-left: 110px;
+  background-image: url(shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.coding {
+  image-resolution: 70%;
+}
