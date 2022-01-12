@@ -1,5 +1,6 @@
 body {
   font-family: "Lato", sans-serif;
+  margin: 0%;
 }
 h1 {
   font-size: 60px;
@@ -25,7 +26,7 @@ section {
   padding-right: 5%;
 }
 .half-width img {
-  width: 60%;
+  width: 80%;
 }
 .welcome-liner {
   border-left: 5px solid rebeccapurple;
@@ -61,12 +62,23 @@ section {
   box-shadow: 5px 5px 10px rgb(151, 121, 140);
 }
 .shape {
+  margin-top: 40px;
   padding-bottom: 60px;
   padding-left: 110px;
-  background-image: url(shapes/shape-1.png);
+  padding-right: 50px;
+  background-image: url(shapes/dream-bg.png);
   background-repeat: no-repeat;
   background-position: left;
 }
-.coding {
-  image-resolution: 70%;
+.develop {
+  display: flex;
+  margin-bottom: 150px;
+}
+#limit {
+  padding-top: 200px;
+  padding-left: 5px;
+  padding-right: 280px;
+}
+.dwl {
+  font-size: 300%;
 }
