@@ -1,0 +1,37 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+h1 {
+  font-size: 60px;
+}
+.purple-color {
+  color: rgb(163, 24, 163);
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(#bc7dd7, purple);
+  padding: 10px 40px;
+  color: beige;
+  font-weight: 700;
+  border-radius: 5px;
+}
+section {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 5%;
+  padding-right: 5%;
+}
+.half-width img {
+  width: 60%;
+}
+.welcome-liner {
+  border-left: 5px solid rebeccapurple;
+  padding-left: 2%;
+}
+.Mission {
+  text-align: center;
+  padding-top: 3%;
+}
